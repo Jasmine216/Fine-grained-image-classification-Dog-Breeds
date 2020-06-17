@@ -18,7 +18,7 @@ Data augmentation is to solve the problem of overfitting by increasing the numbe
 
 We generate augmented data before training the classifier. ImageDataGenerator() is used to make basic transformations for all images in the training set. All these images are fed into the net at training time. (Perez and Wang, 2020) Figure 1 shows four types of transformations for one image. 
 
-![Figure1](https://raw.githubusercontent.com/Jasmine216/Fine-grained-image-classification-Dog-Breeds/pictures/image.png)
+![Figure1](https://raw.githubusercontent.com/Jasmine216/Fine-grained-image-classification-Dog-Breeds/pictures/image.jpg)
 
 Data Augmentation results in the decrease of the accuracy of the training set but helps solve overfitting and improve the accuracy of developments set on a small scale. (Table 1) 
 
