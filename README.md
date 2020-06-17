@@ -1,9 +1,9 @@
 # Files
-## Model.ipynb 
+* Model.ipynb 
   Gives differenct results using different solutions with different parameters.
-## About dataset.pdf
+* About dataset.pdf
   Gives basic information about the dataset
-## groupreport_5.pdf
+* groupreport_5.pdf
   Gives more details about the project by all teammates
 
 # Preprocessing
