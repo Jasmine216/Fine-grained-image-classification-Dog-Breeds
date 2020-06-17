@@ -9,7 +9,9 @@
   Gives the draft model which is self-created and tried in the first period
 
 # Preprocessing
-* Split the dataset into sets at 8:1:1 by circular copy and external library respectively but this part of codes are discarded in the end because of preprocessing of cropped images from other team members.
+* Split the dataset into sets at 8:1:1 by circular copy and external library respectively but this part of codes are discarded in the end because of preprocessing of cropped images later.
+
+* Crop images by the annocation data set which have bound boxs of locations for all objects.
  
 * Make three generators for three image data sets to convert images to floating arrays.
 
