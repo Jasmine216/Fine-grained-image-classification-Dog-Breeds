@@ -1,4 +1,3 @@
-# dog recognition
 
 # Preprocessing
 * Split the dataset into sets at 8:1:1 by circular copy and external library respectively but this part of codes are discarded in the end because of preprocessing of cropped images from other team members.
