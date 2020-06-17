@@ -1,3 +1,10 @@
+# Files
+## Model.ipynb 
+  Gives differenct results using different solutions with different parameters.
+## About dataset.pdf
+  Gives basic information about the dataset
+## groupreport_5.pdf
+  Gives more details about the project by all teammates
 
 # Preprocessing
 * Split the dataset into sets at 8:1:1 by circular copy and external library respectively but this part of codes are discarded in the end because of preprocessing of cropped images from other team members.
